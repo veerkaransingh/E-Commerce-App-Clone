@@ -6,7 +6,8 @@
 
     <!-- bean definitions here -->
     <!-- I want this specific class to be managed by Spring Container and provide object of it whenever needed bruh -->
-    <bean id="..." class="car.example.bean.MyBean">  <!-- id is identifier of the bean, and class represents the location of the bean  -->
+    <bean id="myBean" class="car.example.bean.MyBean">  <!-- id is identifier of the bean, and class represents the location of the bean  -->
+    <property name="message" value="I am a first bean"/>
     </bean>
 
 </beans>
