@@ -3,7 +3,7 @@ package com.example.componentscan;
 
 import org.springframework.stereotype.Component;
 
-@Component //to register this class as a bean
+@Component("employee") //to register this class as a bean
 public class Employee {
 
     private int employeeId;
