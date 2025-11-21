@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+    <!-- I want this specific class to be managed by Spring Container and provide object of it whenever needed bruh -->
+    <bean id="specification" class="com.example.autowire.constructor.Specification">  <!-- id is identifier of the bean, and class represents the location of the bean  -->
+        <property name="make" value="Toyota"/>
+        <property name="model" value="Corolla"/>
+    </bean>
+
+    <!-- this bean need carSpecification as the dependency -->
+    <bean id = "myCar" class = "com.example.autowire.constructor.Car" autowire="constructor"/>
+
+
+</beans>
