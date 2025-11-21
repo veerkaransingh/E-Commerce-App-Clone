@@ -4,6 +4,8 @@ public class Car  {
     private Specification specification; //Car needs specification as the dependency
 
     public Car(Specification specification) { //Here dependency is being injected with help of a constructor
+        // Class Car needs the type of Specification as a dependency
+
         this.specification = specification;
     }
 
