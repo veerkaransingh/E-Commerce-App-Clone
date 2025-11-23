@@ -4,6 +4,8 @@ package com.example.componentscan;
 import org.springframework.stereotype.Component;
 
 @Component("employee") //to register this class as a bean
+
+// Now spring will handle it
 public class Employee {
 
     private int employeeId;
