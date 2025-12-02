@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 public class Manager {
 
     @Autowired  // field injection
-    @Qualifier("employee") // if there are two beans registered with the same name, @qualifier is used.
+    @Qualifier("employee") // if there are two beans registered with the same name, @qualifier is used
     private Employee employee;
 
    // @Autowired // this is doing constructor injection

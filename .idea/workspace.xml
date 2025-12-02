@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86ae0a56-5544-4f44-84a3-834d1a57c35d" name="Changes" comment="Initial Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;veerkaransingh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/veerkaransingh/E-Commerce-App-Clone.git&quot;,
+    &quot;accountId&quot;: &quot;e82106d6-93ae-467d-991d-1915f7988277&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="35XxJTxhItwApmEVShX2QBtvS4y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.IOCExample.executor": "Run",
+    "Application.LooseCouplingExample.executor": "Run",
+    "Application.TightCouplingExample.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/btown/Desktop/Projects/Springexample/src/main/java",
+    "last_opened_file_path": "/Users/btown/Desktop/Projects/Springexample/src/main/java/com/example/autowire/type",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/autowire/type" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/autowire/constructor" />
+      <recent name="$PROJECT_DIR$/src/main/java/com" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/autowired/annotation" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Springexample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Springexample" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86ae0a56-5544-4f44-84a3-834d1a57c35d" name="Changes" comment="" />
+      <created>1763270145518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763270145518</updated>
+      <workItem from="1763270147092" duration="30757000" />
+      <workItem from="1763753164221" duration="189000" />
+      <workItem from="1763753399326" duration="21498000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit _ Hands on practice on tight coupling!">
+      <option name="closed" value="true" />
+      <created>1763270287985</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763270287985</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit _ Hands on practice on tight coupling!">
+      <option name="closed" value="true" />
+      <created>1763313958330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763313958330</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit _ Hands on practice on Loose coupling!">
+      <option name="closed" value="true" />
+      <created>1763333277877</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763333277877</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Commit _ Hands on practice on Loose coupling!">
+      <option name="closed" value="true" />
+      <created>1763333287768</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763333287769</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial Commit _ Hands on practice on Loose coupling!">
+      <option name="closed" value="true" />
+      <created>1763333313055</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763333313055</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial Commit _ Hands on practice on Tight coupling!">
+      <option name="closed" value="true" />
+      <created>1763333338677</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763333338677</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial Commit _ Hands on practice on Tight coupling!">
+      <option name="closed" value="true" />
+      <created>1763333344927</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763333344927</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial Commit _ Hands on practice on Loose coupling!">
+      <option name="closed" value="true" />
+      <created>1763333356272</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763333356272</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial Commit _ Hands on practice on Loose coupling!">
+      <option name="closed" value="true" />
+      <created>1763333365883</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763333365883</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial Commit _ Hands on practice on Tight coupling!">
+      <option name="closed" value="true" />
+      <created>1763333377524</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1763333377524</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial Commit _ Hands on practice on Tight coupling!">
+      <option name="closed" value="true" />
+      <created>1763433268038</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1763433268038</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Initial Commit _ Added two maven dependencies &#10;1. Spring Core&#10;2. Spring Context">
+      <option name="closed" value="true" />
+      <created>1763520173406</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1763520173406</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Initial Commit - Setting up bean">
+      <option name="closed" value="true" />
+      <created>1763521156779</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1763521156779</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Initial Commit - Setting up bean">
+      <option name="closed" value="true" />
+      <created>1763521163609</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1763521163609</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Initial Commit - Setting up bean">
+      <option name="closed" value="true" />
+      <created>1763521174957</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1763521174957</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Initial Commit - Setting up bean">
+      <option name="closed" value="true" />
+      <created>1763521392283</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1763521392283</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Initial Commit - Setting up bean">
+      <option name="closed" value="true" />
+      <created>1763522190200</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1763522190200</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Initial Commit - Setting up bean">
+      <option name="closed" value="true" />
+      <created>1763608036956</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1763608036956</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Initial Commit - Added dependency via Constructor">
+      <option name="closed" value="true" />
+      <created>1763677631074</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1763677631074</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Initial Commit - Added dependency via Constructor">
+      <option name="closed" value="true" />
+      <created>1763677647325</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1763677647325</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Initial Commit - Added dependency via Setter">
+      <option name="closed" value="true" />
+      <created>1763677665879</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1763677665879</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Initial Commit - Created Beans for LooseCoupling">
+      <option name="closed" value="true" />
+      <created>1763680251816</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1763680251816</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Initial Commit - Loose Coupling using Beans (IOC)">
+      <option name="closed" value="true" />
+      <created>1763680296075</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1763680296075</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Initial Commit - Autowiring by Name">
+      <option name="closed" value="true" />
+      <created>1763685200097</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1763685200097</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Initial Commit - Autowiring by Constructor">
+      <option name="closed" value="true" />
+      <created>1763685216148</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1763685216148</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Initial Commit - Autowiring by Type">
+      <option name="closed" value="true" />
+      <created>1763685230679</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1763685230679</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1763685242938</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1763685242938</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Initial Commit - Using @Component annotation">
+      <option name="closed" value="true" />
+      <created>1763765731315</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1763765731315</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Initial Commit - Using @Component annotation">
+      <option name="closed" value="true" />
+      <created>1763765806110</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1763765806110</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Initial Commit - Using @Component annotation">
+      <option name="closed" value="true" />
+      <created>1763765812209</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1763765812210</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Initial Commit - Using @Component annotation">
+      <option name="closed" value="true" />
+      <created>1763766271894</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1763766271894</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Initial Commit - Using @Component annotation">
+      <option name="closed" value="true" />
+      <created>1763766276012</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1763766276012</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Initial Commit - Using @Component annotation">
+      <option name="closed" value="true" />
+      <created>1763766280995</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1763766280995</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1763865342950</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1763865342950</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1763926662157</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1763926662158</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1764122962896</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1764122962896</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1764302519616</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1764302519616</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1764302530274</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1764302530274</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1764302835152</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1764302835152</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1764303078966</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1764303078966</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1764303160583</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1764303160583</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1764379107013</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1764379107013</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1764535640346</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1764535640346</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit _ Hands on practice on tight coupling!" />
+    <MESSAGE value="Initial Commit _ Hands on practice on Loose coupling!" />
+    <MESSAGE value="Initial Commit _ Hands on practice on Tight coupling!" />
+    <MESSAGE value="Initial Commit _ Added two maven dependencies &#10;1. Spring Core&#10;2. Spring Context" />
+    <MESSAGE value="Initial Commit - Setting up bean" />
+    <MESSAGE value="Initial Commit - Added dependency via Constructor" />
+    <MESSAGE value="Initial Commit - Added dependency via Setter" />
+    <MESSAGE value="Initial Commit - Created Beans for LooseCoupling" />
+    <MESSAGE value="Initial Commit - Loose Coupling using Beans (IOC)" />
+    <MESSAGE value="Initial Commit - Autowiring by Name" />
+    <MESSAGE value="Initial Commit - Autowiring by Constructor" />
+    <MESSAGE value="Initial Commit - Autowiring by Type" />
+    <MESSAGE value="Initial Commit - Using @Component annotation" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+</project>
